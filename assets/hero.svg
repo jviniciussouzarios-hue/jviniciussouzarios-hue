@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">José Vinicius de Souza Rios</title>
+  <desc id="desc">Dados, automação e desenvolvimento. Da operação ao código.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#182545"/><stop offset="1" stop-color="#0b1222"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="16" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+  <path d="M48 66V42H72M1128 338h24v-24" fill="none" stroke="#c4f564" stroke-width="3"/>
+  <text x="72" y="76" font-family="Consolas,monospace" font-size="15" letter-spacing="3" fill="#c4f564">JVR / DATA · CODE · OPERATIONS</text>
+  <text x="70" y="156" font-family="Segoe UI,Arial,sans-serif" font-size="52" font-weight="700" fill="#f5f7fb">José Vinicius</text>
+  <text x="70" y="213" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" fill="#f5f7fb">de Souza Rios</text>
+  <text x="72" y="268" font-family="Segoe UI,Arial,sans-serif" font-size="23" fill="#b8c3d6">Da operação ao código.</text>
+  <text x="72" y="310" font-family="Consolas,monospace" font-size="15" fill="#b8c3d6">DADOS / AUTOMAÇÃO / DESENVOLVIMENTO</text>
+  <g fill="none" stroke="#60769e" stroke-opacity=".45" stroke-width="2">
+    <path d="M850 90h210v200H850zM880 120h210v200H880zM910 150h210v200H910z"/>
+    <path d="M850 90l60 60m150-60 60 60M850 290l60 60"/>
+  </g>
+  <g fill="#c4f564"><rect x="905" y="145" width="10" height="10"/><rect x="1055" y="85" width="10" height="10"/></g>
+  <text x="945" y="237" font-family="Consolas,monospace" font-size="44" fill="#c4f564">&gt;_</text>
+</svg>
