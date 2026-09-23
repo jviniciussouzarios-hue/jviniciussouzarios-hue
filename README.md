@@ -146,7 +146,7 @@ Uma janela para minha atividade pública. Projetos corporativos e trabalhos priv
 
 [Explorar repositórios e contribuições →](https://github.com/jviniciussouzarios-hue?tab=repositories)
 
-<!-- CONTRIBUTION SNAKE
+CONTRIBUTION SNAKE
 Preparação incluída em .github/workflows/snake.yml.
 Após a primeira execução bem-sucedida, remova este comentário externo
 para exibir a imagem abaixo. Veja REVISAO.md.
@@ -156,8 +156,6 @@ para exibir a imagem abaixo. Veja REVISAO.md.
 <p align="center">
   <img src="https://raw.githubusercontent.com/jviniciussouzarios-hue/jviniciussouzarios-hue/output/github-snake.svg" width="100%" alt="Animação snake com as contribuições públicas do GitHub" />
 </p>
-
-END CONTRIBUTION SNAKE -->
 
 ## Contato
 
